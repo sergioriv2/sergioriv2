@@ -1,5 +1,5 @@
 <div align="center" width="300">
-  <h2>I'm Sergio Rivera, a fullstack developer ✨</h1>
+  <h2>I'm Sergio Rivera, a full-stack developer 🚀</h1>
   <p align="left">Welcome to my github profile! 🌟. I'm passionate about my profession and developing useful webpages and services. I love everything related to the      IT area.</p>
   <p align="left">Currently learning Typescript, .NET Core and AWS. Check out my <strong>skills</strong> and my <strong>repositories</strong> 👇</p>
 </div>
