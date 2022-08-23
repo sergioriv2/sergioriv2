@@ -4,7 +4,7 @@
   <p align="left">Currently learning Typescript, .NET Core and AWS. Check out my <strong>skills</strong> and my <strong>repositories</strong> 👇</p>
 </div>
 <div>
-  <h3>Skills 📚</h3>
+  <h3>📚 Skills</h3>
   <table>
     <tr>
       <td><img src="https://cdn.iconscout.com/icon/free/png-256/react-3-1175109.png" width="200"/></td>
